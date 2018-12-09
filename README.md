@@ -9,7 +9,18 @@
 토픽모델링의 경우 Scikit-learn에 있는 NMF (Nonnegative Matrix Factorization)을 사용했습니다.
 
 ## Results
-![Topic modeling result](./img/topics.png)
+*  각 전처리기의 토픽모델링 결과이며, 괄호 안 시간은 전처리 시간입니다. (1만개 뉴스 기사 기준)
+1. Topics with Khaiii (4m 45s)
+![Topic modeling result](./img/topics_khaiii.png)
+
+2. Topics with Mecab (25s)
+![Topic modeling result](./img/topics_mecab.png)
+
+3. Topics with Okt without stemming (Twitter) (10m 2s)
+![Topic modeling result](./img/topics_okt.png)
+
+4. Topics with Okt with stemming (Twitter) (11m)
+![Topic modeling result](./img/topics_okt.png)
 
 
 ### Contact
