@@ -10,6 +10,7 @@
 
 ## Results
 *  각 전처리기의 토픽모델링 결과이며, 괄호 안 시간은 전처리 시간입니다. (1만개 뉴스 기사 기준)
+
 1. Topics with Khaiii (4m 45s)
 ![Topic modeling result](./img/topics_khaiii.png)
 
