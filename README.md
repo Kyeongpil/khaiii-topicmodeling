@@ -20,10 +20,10 @@
 2. Topics with Mecab (25s)
 ![Topic modeling result](./img/topics_mecab.png)
 
-3. Topics with Okt without stemming (Twitter) (10m 2s)
+3. Topics with Okt without stemming (Twitter) (10m 2s)
 ![Topic modeling result](./img/topics_okt.png)
 
-4. Topics with Okt with stemming (Twitter) (11m)
+4. Topics with Okt with stemming (Twitter) (11m)
 ![Topic modeling result](./img/topics_okt.png)
 
 
